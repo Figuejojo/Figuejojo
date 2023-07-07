@@ -1,9 +1,9 @@
 # 👋 Hi, I’m @Figuejojo
-### 👀 I’m interested in Embedded Systems, Biomedics, Creation of Games and more!!
-### 🌱 I’m currently learning more about C++, OOP and Game Design.
-### 💞️ I’m looking to collaborate on Embedded development which is my main area but I am also happy to help in any kind of projects.
-### ✨ Lets make it happend✨
+### 👀 I’m interested in Embedded Systems, Biomedics, and the Creation of Games!!
+### 🌱 I’m currently learning more about C++, OOP and design patterns, but my strength is using Embedded C/C++
+### 💞️ I’m looking to collaborate on Embedded development which is my main area but I am also happy to help in any projects.
+### ✨ Let's make it happen ✨
 
 <!---
-✨Lets make it happend✨ 
+✨ Let's make it happen ✨ 
 --->
